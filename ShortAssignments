@@ -1,0 +1,1 @@
+Assignment 1:  Do a program that asks the user for the names of two files.  Try to open the files for reading.  If unsuccessful, tell the user about it and exit.  If successful, compare the two files and tell the user if they are the same or not.  Write pseudocode first.  Then write the actual code, leaving the pseudocode in the program as comments.
